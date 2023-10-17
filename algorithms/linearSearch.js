@@ -1,7 +1,7 @@
 /**
  * Time complexity --> O( n + 3 ) --> O(n)
  *
- * Spacial complexity --> O()
+ * Space complexity --> O()
  * 
  * Ot() = time
  * Os() = space
